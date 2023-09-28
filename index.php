@@ -41,13 +41,13 @@ $con->close();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap" rel="stylesheet">
-    <title>Welcome to Ib Arts</title>
+    <title>Aliah University-Admission Portal</title>
 </head>
 
 <body>
     <img src="https://www.aliah.ac.in/image/home_banner3.jpg" alt="">
     <div class="container">
-        <h1>Welcome to iB Arts Pvt. Ltd</h1>
+        <h1>Welcome to Aliah University</h1>
         <p class="det">Enter your details to join us</p>
         <?php 
         if($insert==true){
